@@ -1,5 +1,5 @@
 <h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
-<h3>Name:  JOTHI GANESH O             </h3>
+<h3>Name:  JOTHI GANESH P            </h3>
 <h3>Register Number:212224240065     </h3>
 <H3>Aim:</H3>
 <p>
